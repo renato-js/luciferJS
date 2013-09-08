@@ -11,7 +11,7 @@ This is a javascript version for SUED --> http://www.baixaki.com.br/download/sue
 
 It's a javascript program that you make questions and it just answer to you anything that you ask for it.
 
-<h2>How this is work?</h2>
+<h2>How it work?</h2>
 
 Before you write the question, press "'" button of your keyboard and you'll be able to write the answer that will be showed on screen.
 But that's where the magic happens. While you write the answer, the script write a random prhase for you.
